@@ -1,4 +1,5 @@
 -> https://app.localstack.cloud/getting-started
+-> https://docs.localstack.cloud/getting-started/quickstart/
 Prerequisites
     AWS CLI
     Docker
